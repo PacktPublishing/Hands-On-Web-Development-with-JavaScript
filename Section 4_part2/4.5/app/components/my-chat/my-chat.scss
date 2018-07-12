@@ -1,0 +1,19 @@
+my-chat {
+    #chat-input {
+        resize: none;
+    }
+
+    #chat-messages {
+        padding-bottom: 10%;
+    }
+
+    #input-area {
+        position: fixed;
+        bottom: 0;
+        width: 75%;
+    }
+
+    .link {
+        cursor: pointer;
+    }
+}

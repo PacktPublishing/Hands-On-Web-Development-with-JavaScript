@@ -1,0 +1,29 @@
+my-sidebar {
+    .link {
+        cursor: pointer;
+    }
+
+    li .drop-left {
+        display: none;
+    }
+    
+    li:hover .drop-left {
+        display: block;
+    }
+    
+    li .dropdown-menu {
+        right: 10%;
+        top: 60%;
+        left: unset;
+        padding: 0;
+        min-width: 5rem;
+    }
+
+    .reorder-icon {
+        display: none;
+    }
+
+    li:hover .reorder-icon {
+        display: inline-block;
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "buzzapp",
+  "version": "1.0.0",
+  "description": "slack like",
+  "main": "index.html",
+  "scripts": {
+   "test": "ava"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "devDependencies": {
+   "ava": "^0.25.0",
+   "babel-cli": "^6.26.0",
+   "babel-plugin-transform-custom-element-classes": "^0.1.0",
+   "babel-preset-env": "^1.6.1"
+  },
+  "ava": {
+   "files": [
+    "app/**/*.spec.js"
+   ],
+   "source": [
+    "app/**/*.js"
+   ],
+   "concurrency": 5,
+   "failFast": false,
+   "failWithoutAssertions": false,
+   "tap": true,
+   "powerAssert": true,
+   "require": [
+    "babel-register"
+   ],
+   "babel": "inherit"
+  }
+ }
+ 

@@ -1,0 +1,29 @@
+.scrollable {
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.scrollable::-webkit-scrollbar {
+    width: 6px;
+}
+
+.scrollable::-webkit-scrollbar-thumb {
+    background: #757575;
+}
+
+.scrollable::-webkit-scrollbar-track {
+    background: #BDBDBD;
+}
+
+.link {
+    cursor: pointer;
+}
+
+buzz-app {
+    width: 100vw;
+    height: 100vh;
+}
+
+#chat-input {
+    resize: none;
+}

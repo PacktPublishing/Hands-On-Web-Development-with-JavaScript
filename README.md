@@ -9,12 +9,14 @@ You’ll then learn how to route, test, and create dynamic content for your appl
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Build and deploy microservices with Seneca 
-<LI>Use WebRTC APIs and the WebSocket protocol for real-time, browser-based video communication 
-<LI>Utilize the Bacon.js library for both server-side and front-end development 
-<LI>Understand advanced functional programming 
-<LI>Have hands-on, working knowledge of Bootstrap 4 
-<LI>Build an example application UI with React and Flux </LI></UL></DIV>
+<LI>Explore modern JavaScript and Document Object Model (DOM)
+<LI>Create a live filter along with a search feature
+<LI>Understand the functions of custom browser events
+<LI>Get to know the WebSockets basics for “real-time” applications
+<LI>Create reusable UI components
+<LI>Work with AJAX to create faster and more interactive applications
+<LI>Implement client-side routing with URL observers
+<LI>Create smooth UI transitions </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge

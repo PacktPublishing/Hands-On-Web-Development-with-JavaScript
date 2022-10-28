@@ -41,3 +41,7 @@ To follow along in this course, you will need the latest version of Node 9 or hi
 
 * [Beginning Modern JavaScript Development with Microservices, WebRTC, and React [Video]](https://www.packtpub.com/web-development/beginning-modern-javascript-development-microservices-webrtc-and-react-elearning-video?utm_source=github&utm_medium=repository&utm_campaign=9781789133684)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789348903">https://packt.link/free-ebook/9781789348903 </a> </p>
